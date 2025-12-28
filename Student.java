@@ -11,6 +11,5 @@ public class Student{
         System.out.println("GOOD Evening");
         System.out.println("GOOD Evening");
         System.out.println("GOOD Evening");
-        System.out.println("GOOD Evening");
     }
 }
